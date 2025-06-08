@@ -1,4 +1,4 @@
-shelia patch 1.0.0
+# shelia patch 2.0.0
 
-- an avaliable newbee coding cow
-- currently learning java
+- an avaliable sophomore coding cow
+- curious, learning this and that
