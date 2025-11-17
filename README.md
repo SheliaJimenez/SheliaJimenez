@@ -1,4 +1,3 @@
-# shelia patch 2.0.0
+# shelia patch 3.0.0
 
-- an avaliable sophomore coding cow
-- curious, learning this and that
+- shit, I am now in my 20s
